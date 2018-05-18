@@ -12,9 +12,9 @@ function divide(a, b) {
 }
 
 function inc(n){
-  n += 1
+  number += 1
 }
 
 function inc(n){
- n -= 1
+ number -= 1
 }
