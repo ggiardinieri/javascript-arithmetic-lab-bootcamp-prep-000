@@ -11,10 +11,10 @@ function divide(a, b) {
   return a / b
 }
 
-function inc(n){
+function inc(n) {
   number += 1
 }
 
-function inc(n){
+function inc(n) {
  number -= 1
 }
